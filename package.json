@@ -1,0 +1,14 @@
+{
+  "name": "udp-server",
+  "version": "1.0.0",
+  "description": "Example udp server",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_PATH=. node index.js"
+  },
+  "author": "son.thai@live.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
